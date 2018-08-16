@@ -1,14 +1,14 @@
 <template>
   <div>
-    <router-view/>
+    this is a header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Header'
 }
 </script>
 
-<style>
+<style scoped>
 </style>
