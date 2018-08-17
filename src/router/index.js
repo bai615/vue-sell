@@ -15,6 +15,10 @@ export default new Router({
       component: Home
     },
     {
+      path: '/r',
+      redirect: '/goods'
+    },
+    {
       path: '/goods',
       name: 'Goods',
       component: Goods

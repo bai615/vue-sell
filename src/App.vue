@@ -8,7 +8,7 @@
         </router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/ratings">
+        <router-link to="/ratings" tag="a">
           评论
         </router-link>
       </div>
